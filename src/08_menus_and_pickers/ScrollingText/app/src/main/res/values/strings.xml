@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_tittle">Sinopsis Film Tenet</string>
+    <string name="article_subtitle"><b>TENET Film Terbaru Nolan, Aksi Spionase Cegah Perang Dunia III Lewat Time Inversion</b></string>
+    <string name="article_text"><i>TENET</i>, film garapan <b>Christopher Nolan</b> ini telah mengalami beberapa kali penundaan waktu tayang dan akhirnya film tersebut sudah menemukan tanggal rilis baru. Film ini akan tayang di Indonesia pada 26 Agustus mendatang.
+    \n\n
+        Film garapan <b>Nolan</b> ini bercerita tentang sebuah aksi spionase internasional dalam upaya untuk mencegah Perang Dunia III. <b>John David Washington</b> dan rekannya, <b>Robert Pattinson</b>, yang berada dalam sebuah misi rahasia dimana keduanya akan mencoba untuk mengentikan adanya Perang Dunia III dengan menggunakan <i>time inversion</i> atau pembalikkan waktu.
+        \n\n
+        Dalam tayangan trailer kedua yang rilis pada kanal Youtube milik Warner Bros Picture, trailer yang berdurasi lebih dari dua menit tersebut, memungkinkan konsep dari <i>time inversion</i> sendiri yang memungkinkan karakter-karakter untuk mengalami sebuah kejadian secara terbalik. Efeknya akan lebih dulu ditampilkan daripada penyebab kejadian itu sendiri. Fenomena <i>time inversion</i> ini memungkinkan <b>Nolan</b> untuk menggunakannya sebagai senjata baru untuk menciptakan cerita yang sangat menarik.
+        \n\n
+        Cuplikan dari trailer ini terkesan seperti misteri. Dengan penayangan <b>John David Washinton</b> yang dihadapkan pada beberapa kejadian dengan waktu yang cukup membingungkan. Hal itu dikarenakan ada pada satu momen dimana ia dilumpuhkan namun di momen yang lain ia tersadar pada tempat dan waktu yang baru namun ia sudah lupa akan masa lalunya.
+        \n\n
+        <i>TENET</i> sendiri digadang-gadang menjadi salah satu film dengan biaya produksi termahal di dunia. Bagaimana tidak, film ini sendiri juga dibintangi oleh aktor-aktor besar seperti <b>John David Washington, Robert Pattinson, Elizabeth Debicki, Kenneth Branagh, Dimple Kapadia</b>, serta <b>Michael Caine</b>. Selain itu, pengambilan latar dari 7 negera yang berbeda juga menjadikan <i>TENET</i> sebagai film science fiction termahal di dunia. Selain mengambil syuting di Estonia, film garapan <b>Nolan</b> ini juga mengambil setting di Inggris, Italia dan India.
+        \n\n
+        Artikel ini bisa dilihat di https://www.kapanlagi.com/showbiz/film/internasional/sinopsis-2268364732tenet22683648482-aksi-spionase-dunia-cegah-perang-dunia-iii--lewat-time-inversion-25c8c2.html
+    </string>
+    <string name="add_comment">ADD COMMENT</string>
+    <string name="edit">Edit</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="edit_message">Edit choice clicked.</string>
+    <string name="share_message">Share choice clicked.</string>
+    <string name="delete_message">Delete choice clicked.</string>
+</resources>

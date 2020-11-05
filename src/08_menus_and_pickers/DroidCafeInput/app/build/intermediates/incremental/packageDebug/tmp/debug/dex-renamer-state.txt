@@ -1,0 +1,4 @@
+#Thu Nov 05 23:31:41 ICT 2020
+base.0=C\:\\Users\\Alan PC\\Downloads\\Telegram Desktop\\08_menus_and_pickers\\07_menus_and_pickers\\DroidCafeInput\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
