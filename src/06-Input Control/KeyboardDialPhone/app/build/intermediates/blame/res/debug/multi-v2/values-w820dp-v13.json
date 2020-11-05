@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Alan PC\\Documents\\Tugas Kuliah\\SEMESTER 5\\Android\\mobile-3e-04\\src\\06-Input Control\\KeyboardDialPhone\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Alan PC\\Documents\\Tugas Kuliah\\SEMESTER 5\\Android\\mobile-3e-04\\src\\06-Input Control\\KeyboardDialPhone\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "871",
+                        "endColumns": "57",
+                        "endOffsets": "924"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}

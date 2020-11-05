@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml:16:1-34:12
+INJECTED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml:16:1-34:12
+INJECTED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml:16:1-34:12
+INJECTED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml:16:1-34:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Alan PC\.gradle\caches\transforms-2\files-2.1\3888b76ca1d3233026c2f5cad8877075\appcompat-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Alan PC\.gradle\caches\transforms-2\files-2.1\34b522c8855e0c73cf9effc4a9a32013\support-fragment-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Alan PC\.gradle\caches\transforms-2\files-2.1\8620ba8927b39a6d291db6ea05c53d76\animated-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Alan PC\.gradle\caches\transforms-2\files-2.1\bf9b5a52845b8771aff5fabdecdcc03d\support-core-ui-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Alan PC\.gradle\caches\transforms-2\files-2.1\beeb82b2510e87c5231b2c828dbda485\support-core-utils-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Alan PC\.gradle\caches\transforms-2\files-2.1\d8d452f44ab125f201933d0870752fbc\support-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Alan PC\.gradle\caches\transforms-2\files-2.1\222ad3875af524dbeddaea9e092a0d60\support-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Alan PC\.gradle\caches\transforms-2\files-2.1\eb11e490220b2b77e71b21d47a6ef261\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Alan PC\.gradle\caches\transforms-2\files-2.1\555b39dad4a9593ee5ac0435517d4a05\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Alan PC\.gradle\caches\transforms-2\files-2.1\115e96da560aef7a1eded67ff187307e\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Alan PC\.gradle\caches\transforms-2\files-2.1\f3d8400d34d44a28d45a1ffcf10f060c\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml:16:1-34:12
+INJECTED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml:16:1-34:12
+INJECTED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml:16:1-34:12
+	package
+		ADDED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml:17:5-52
+		INJECTED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml:16:1-34:12
+		INJECTED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml:16:1-34:12
+		INJECTED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml:16:11-69
+application
+ADDED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml:19:5-32:19
+	android:supportsRtl
+		ADDED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml:24:9-40
+activity#com.example.android.keyboarddialphone.MainActivity
+ADDED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml:25:19-84
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Alan PC\.gradle\caches\transforms-2\files-2.1\3888b76ca1d3233026c2f5cad8877075\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Alan PC\.gradle\caches\transforms-2\files-2.1\3888b76ca1d3233026c2f5cad8877075\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Alan PC\.gradle\caches\transforms-2\files-2.1\34b522c8855e0c73cf9effc4a9a32013\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Alan PC\.gradle\caches\transforms-2\files-2.1\34b522c8855e0c73cf9effc4a9a32013\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Alan PC\.gradle\caches\transforms-2\files-2.1\8620ba8927b39a6d291db6ea05c53d76\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Alan PC\.gradle\caches\transforms-2\files-2.1\8620ba8927b39a6d291db6ea05c53d76\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Alan PC\.gradle\caches\transforms-2\files-2.1\bf9b5a52845b8771aff5fabdecdcc03d\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Alan PC\.gradle\caches\transforms-2\files-2.1\bf9b5a52845b8771aff5fabdecdcc03d\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Alan PC\.gradle\caches\transforms-2\files-2.1\beeb82b2510e87c5231b2c828dbda485\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Alan PC\.gradle\caches\transforms-2\files-2.1\beeb82b2510e87c5231b2c828dbda485\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Alan PC\.gradle\caches\transforms-2\files-2.1\d8d452f44ab125f201933d0870752fbc\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Alan PC\.gradle\caches\transforms-2\files-2.1\d8d452f44ab125f201933d0870752fbc\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Alan PC\.gradle\caches\transforms-2\files-2.1\222ad3875af524dbeddaea9e092a0d60\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Alan PC\.gradle\caches\transforms-2\files-2.1\222ad3875af524dbeddaea9e092a0d60\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Alan PC\.gradle\caches\transforms-2\files-2.1\eb11e490220b2b77e71b21d47a6ef261\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Alan PC\.gradle\caches\transforms-2\files-2.1\eb11e490220b2b77e71b21d47a6ef261\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Alan PC\.gradle\caches\transforms-2\files-2.1\555b39dad4a9593ee5ac0435517d4a05\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Alan PC\.gradle\caches\transforms-2\files-2.1\555b39dad4a9593ee5ac0435517d4a05\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Alan PC\.gradle\caches\transforms-2\files-2.1\115e96da560aef7a1eded67ff187307e\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Alan PC\.gradle\caches\transforms-2\files-2.1\115e96da560aef7a1eded67ff187307e\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Alan PC\.gradle\caches\transforms-2\files-2.1\f3d8400d34d44a28d45a1ffcf10f060c\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Alan PC\.gradle\caches\transforms-2\files-2.1\f3d8400d34d44a28d45a1ffcf10f060c\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alan PC\Documents\Tugas Kuliah\SEMESTER 5\Android\mobile-3e-04\src\06-Input Control\KeyboardDialPhone\app\src\main\AndroidManifest.xml
