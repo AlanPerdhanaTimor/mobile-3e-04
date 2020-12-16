@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">cvd</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Pelacak Covid-19</string>
+    <string name="nav_header_subtitle">Alan Perdhana Timor</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="info">Info</string>
+    <string name="not_update">Data Riwayat Belum Di Update</string>
+    <string name="confirmed">Terkonfirmasi</string>
+    <string name="recovered">Sembuh</string>
+    <string name="deaths">Kematian</string>
+    <string name="keterangan">Ket :</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Indonesia</string>
+    <string name="menu_slideshow">Kontak</string>
+    <string name="world_summary_data">Ringkasan Data Dunia</string>
+    <string name="indonesia_summary_data">Indoensia</string>
+    <string name="from_corona">Dari Covid-19</string>
+    <string name="last_update">Last Update</string>
+
+    <string-array name="names">
+        <item>Layanan Pengaduan Bansos Kementerian Sosial</item>
+        <item>Layanan Masyarakat Kartu Prakerja</item>
+        <item>Bantuan Langsung Tunai Desa</item>
+        <item>Pembebasan Biaya Listrik (PLN)</item>
+        <item>Posko Daring Masyarakat Terdampak Bencana Nasional COVID-19Pusat</item>
+        <item>WA Center Kementerian Agama Sigap COVID-19</item>
+        <item>Informasi Fungsi Relawan Desa Lawan COVID-19 Kementerian Desa, PDT, dan Transmigrasi</item>
+        <item>Jalur Pengaduan bagi Pelaku Pariwisata dan Ekonomi Kreatif Terdampak COVID-19</item>
+
+
+    </string-array>
+
+    <string-array name="kontak">
+
+        <item>0811-10-222-10</item>
+        <item>021-25541246 </item>
+        <item>0877-8899-0040 atau 0812-8899-0040</item>
+        <item>08122-123-123</item>
+        <item>0811-919-3737</item>
+        <item>081-1159-9003</item>
+        <item>0877-8899-0040 / 0812-8899-0040</item>
+        <item>0811-8956-767</item>
+
+    </string-array>
+
+</resources>
