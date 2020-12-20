@@ -16,34 +16,15 @@
     <string name="menu_gallery">Indonesia</string>
     <string name="menu_slideshow">Kontak</string>
     <string name="world_summary_data">Ringkasan Data Dunia</string>
+    <string name="jatim">Jawa Timur</string>
     <string name="indonesia_summary_data">Indoensia</string>
     <string name="from_corona">Dari Covid-19</string>
     <string name="last_update">Last Update</string>
 
-    <string-array name="names">
-        <item>Layanan Pengaduan Bansos Kementerian Sosial</item>
-        <item>Layanan Masyarakat Kartu Prakerja</item>
-        <item>Bantuan Langsung Tunai Desa</item>
-        <item>Pembebasan Biaya Listrik (PLN)</item>
-        <item>Posko Daring Masyarakat Terdampak Bencana Nasional COVID-19Pusat</item>
-        <item>WA Center Kementerian Agama Sigap COVID-19</item>
-        <item>Informasi Fungsi Relawan Desa Lawan COVID-19 Kementerian Desa, PDT, dan Transmigrasi</item>
-        <item>Jalur Pengaduan bagi Pelaku Pariwisata dan Ekonomi Kreatif Terdampak COVID-19</item>
+    
 
 
-    </string-array>
-
-    <string-array name="kontak">
-
-        <item>0811-10-222-10</item>
-        <item>021-25541246 </item>
-        <item>0877-8899-0040 atau 0812-8899-0040</item>
-        <item>08122-123-123</item>
-        <item>0811-919-3737</item>
-        <item>081-1159-9003</item>
-        <item>0877-8899-0040 / 0812-8899-0040</item>
-        <item>0811-8956-767</item>
-
-    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>

@@ -63,8 +63,8 @@ public class GalleryFragment extends Fragment {
                 pieEntries.add(new PieEntry(countryModel.getIdnDeaths().getValue(), getResources().getString(R.string.deaths)));
 
                 PieDataSet pieDataSet = new PieDataSet(pieEntries, getResources().getString(R.string.from_corona));
-                pieDataSet.setColors(ColorTemplate.PASTEL_COLORS);
-                pieDataSet.setValueTextColor(Color.WHITE);
+                pieDataSet.setColors(ColorTemplate.MATERIAL_COLORS);
+                pieDataSet.setValueTextColor(Color.BLACK);
                 pieDataSet.setValueTextSize(14);
 
                 Description description = new Description();

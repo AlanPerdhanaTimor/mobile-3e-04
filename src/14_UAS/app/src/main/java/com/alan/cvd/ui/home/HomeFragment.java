@@ -62,8 +62,8 @@ public class HomeFragment extends Fragment {
                 entries.add(new PieEntry(ringkasanModel.getDeaths().getValue(), getResources().getString(R.string.deaths)));
 
                 PieDataSet pieDataSet = new PieDataSet(entries, getResources().getString(R.string.from_corona));
-                pieDataSet.setColors(ColorTemplate.PASTEL_COLORS);
-                pieDataSet.setValueTextColor(Color.WHITE);
+                pieDataSet.setColors(ColorTemplate.MATERIAL_COLORS);
+                pieDataSet.setValueTextColor(Color.BLACK);
                 pieDataSet.setValueTextSize(14);
 
                 Description description = new Description();

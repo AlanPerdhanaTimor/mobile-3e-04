@@ -23,4 +23,5 @@ public interface ApiEndPoint {
     @GET(Api.END_POINT_IDN)
     Call<CountryModel> getSummaryIdn();
 
+
 }
